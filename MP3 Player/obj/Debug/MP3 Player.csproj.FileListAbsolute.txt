@@ -1,0 +1,12 @@
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe.config
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csprojAssemblyReference.cache
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Mp3Form.resources
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.exe
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3 Player.pdb
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3_Player.MusicListForm.resources
+C:\Users\MuradPc\source\repos\MP3 Player\MP3 Player\obj\Debug\MP3_Player.SoundForm.resources
